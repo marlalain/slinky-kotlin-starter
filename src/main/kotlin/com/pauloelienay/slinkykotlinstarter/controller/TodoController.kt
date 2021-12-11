@@ -1,7 +1,6 @@
 package com.pauloelienay.slinkykotlinstarter.controller
 
 import com.pauloelienay.slinky.generics.GenericController
-import com.pauloelienay.slinky.generics.IGenericBusiness
 import com.pauloelienay.slinkykotlinstarter.business.TodoBusiness
 import com.pauloelienay.slinkykotlinstarter.model.Todo
 import org.springframework.web.bind.annotation.RequestMapping
